@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phase0 ทดสอบจับภาพ</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="btn_summary">สรุปผล</string>
+    <string name="l_status">สถานะการจับภาพ: %1$s</string>
+    <string name="l_res">ความละเอียดที่จับ: %1$s</string>
+    <string name="l_fps">Capture FPS (วัดจริง): %1$s</string>
+    <string name="l_ocr">สถานะ OCR: %1$s</string>
+    <string name="l_ms">เวลาประมวลผล OCR: %1$s</string>
+    <string name="l_text">ข้อความอังกฤษที่ตรวจพบ:\n%1$s</string>
+    <string name="l_err">ข้อผิดพลาด: %1$s</string>
+    <string name="l_black">ตรวจจอดำ: %1$s</string>
+</resources>
